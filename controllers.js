@@ -1,4 +1,4 @@
-const { Cliente, Articulo } = require("./models.js");
+const { Nombre, Categoria } = require("./models.js");
 
 
 // ------- CLIENTES
